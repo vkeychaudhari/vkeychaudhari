@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vkeychaudhari (Nilesh Chaudhari)
 - 👀 I’m interested in XAML | C# | .Net | SQL | WPF | UWP | WinForm| XAML | WEB API 
 - 🌱 I’m currently learning .Net MAUI
-- 📫 How to reach me => https://www.instagram.com/vkeychaudhari/
+- 📫 How to reach me => https://vkeychaudhari.github.io/
 - 📹 Zoom DevForum => https://devforum.zoom.us/u/nilesh/
 - 💻 Sample UI => https://github.com/vkeychaudhari/SampleUI
 <!---
